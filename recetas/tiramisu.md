@@ -1,6 +1,6 @@
 #Tiramisú
 
-##Ingdientes
+##Ingredientes
 
 * Galletas de champaña
 * Una porción de queso mascarpone o queso crema
@@ -11,7 +11,7 @@
 * Amareto
 * Cacao amargo
 
-##Prcedimiento
+##Procedimiento
 * Batir la crema a medio punto
 * Mezclar el queso con azucar flor y un chorrito de amareto
 * Mezclar la crema con el queso
